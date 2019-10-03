@@ -6,5 +6,10 @@ public class FizzBuzz {
 		// TODO Auto-generated method stub
 		return 1;
 	}
+	
+	public int printOutput2() {
+		// TODO Auto-generated method stub
+		return 2;
+	}
 
 }

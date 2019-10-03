@@ -18,7 +18,7 @@ class TestDriven {
 	void test2() {
 		FizzBuzz fizz = new FizzBuzz();
 		
-		int input = fizz.printOutput();
+		int input = fizz.printOutput2();
 		assertEquals(2,input);
 	}
 
