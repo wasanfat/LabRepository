@@ -13,5 +13,13 @@ class TestDriven {
 		int input = fizz.printOutput();
 		assertEquals(1,input);
 	}
+	
+	@Test
+	void test2() {
+		FizzBuzz fizz = new FizzBuzz();
+		
+		int input = fizz.printOutput();
+		assertEquals(2,input);
+	}
 
 }
