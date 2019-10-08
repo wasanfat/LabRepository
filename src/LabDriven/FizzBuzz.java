@@ -62,4 +62,9 @@ public class FizzBuzz {
 		return "Fizz";
 	}
 
+	public int printOutput13() {
+		// TODO Auto-generated method stub
+		return 13;
+	}
+
 }
