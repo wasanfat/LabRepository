@@ -37,5 +37,12 @@ class TestDriven {
 		String input = fizz.printOutput4();
 		assertEquals("4",input);
 	}
+	@Test
+	void test5() {
+		FizzBuzz fizz = new FizzBuzz();
+		
+		String input = fizz.printOutput5();
+		assertEquals("Buzz",input);
+	}
 
 }
