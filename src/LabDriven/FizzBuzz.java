@@ -42,4 +42,9 @@ public class FizzBuzz {
 		return 8;
 	}
 
+	public String printOutput9() {
+		// TODO Auto-generated method stub
+		return "Fizz";
+	}
+
 }
